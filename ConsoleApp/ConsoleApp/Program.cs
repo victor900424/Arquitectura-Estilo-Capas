@@ -7,8 +7,6 @@ public class main
     {
         UserController userController = new UserController();
 
-        //Solictud de ingreso de datos
-
         // Solicitar datos al usuario
         Console.Write("Ingrese el ID del usuario: ");
         string id = Console.ReadLine();
